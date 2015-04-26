@@ -1,0 +1,68 @@
+@media print {
+  @page { margin: 2cm; }
+  html,
+  body,
+  div.site-width {
+      width: 100%;
+      margin: 0;
+      border: none !important;
+      font-size: 12pt;
+  }
+
+  header#header nav.nav-primary,
+  body#article aside.publication-information,
+  body#article .celebrated-content,
+  body#article footer{display: none;}
+  body#article a[rel=footnote]{
+      display: inline !important;
+      padding: 0;
+      background: none;
+      color: #333;
+      vertical-align: super;
+      margin: 0;
+      opacity: 1;
+      font-size: 0.8rem;
+      font-family: Arial;
+  }
+
+  header#header{ padding-top: 0; }
+
+  header#header nav.nav-issue{
+    position: absolute;
+    right: 0;
+    top: 1em;
+  }
+
+  header#header p{ text-transform: lowercase; text-align: center; }
+  header#header p:before{ content: "This article was accessed online at civicquarterly.com, "; }
+  header#header p:first-letter{ text-transform: uppercase; }
+
+  body#article .page a:not([rel=footnote]):link:after {
+    content: " <" attr(href) "> ";
+    color: grey !important;
+    font-weight: normal;
+  }
+
+  body#article .page section.footnotes{display: block;}
+  body#article .page div.footnote-container,
+  body#article .page section.footnotes a.reversefootnote{display: none;}
+
+  body#article .page figure,
+  figure:not(.track-site-width){
+    margin: 1em auto;
+    float: none;
+    text-align: center;
+    max-height: 8cm;
+  }
+
+  body#article .page img{
+    max-height: 7cm;
+    margin: 1em auto;
+    display: block;
+  }
+
+  body#article .page section.author-bio img{
+    margin-right: 1em;
+    margin-top: 0;
+  }
+}

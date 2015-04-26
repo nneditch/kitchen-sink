@@ -1,0 +1,1973 @@
+/* @override http://localhost/css/issue_2.css */
+
+/* @override http://localhost:4000/css/issue_2.css */
+
+/* @override http://localhost:4000/css/issue_2.css */
+
+/* @override http://localhost:4000/css/issue_2.css */
+
+/* @group shared colors */
+
+body#page.issue-1 section.issue-2-new-literacies header{ border-color: #006699; }
+
+body#page.issue-2 .issue-2-new-literacies h3,
+body#page.issue-2 section.issue-2-new-literacies h1,
+body#article section.issue-2-new-literacies.h-feed a h1,
+body#article section.issue-1-field-notes article h1,
+body#article.issue-2-new-literacies main .page span.first-letter,
+body#article.issue-2-new-literacies main .page blockquote::before,
+body#article.issue-2-new-literacies main .page > div.site-width > section > h1{ color: #006699; }
+
+body#page.issue-2 section.issue-2-new-literacies a:hover h1,
+body#article section.issue-2-new-literacies a:hover h1{ color: #006699; }
+
+body#page.issue-2 .issue-2-community-building h3,
+body#page.issue-2 section.issue-2-community-building h1,
+body#article section.issue-2-community-building article h1,
+body#article section.issue-2-community-building article h1,
+body#article.issue-2-community-building main .page blockquote::before,
+body#article.issue-2-community-building main .page span.first-letter,
+body#article.issue-2-community-building main .page > div.site-width > section h1{ color: #006699; }
+
+body#page.issue-2 section.issue-2-community-building a:hover h1,
+body#article section.issue-2-community-building a:hover h1{ color: #006699; }
+
+body#page.issue-2 .issue-2-designing-complexity h3,
+body#page.issue-2 section.issue-2-designing-complexity h1,
+body#article section.issue-2-designing-complexity article h1,
+body#article section.issue-2-designing-complexity article h1,
+body#article.issue-2-designing-complexity main .page blockquote::before,
+body#article.issue-2-designing-complexity main .page span.first-letter,
+body#article.issue-2-designing-complexity main .page > div.site-width > section h1{ color: #006699; }
+
+body#page.issue-2 section.issue-2-designing-complexity a:hover h1,
+body#article section.issue-2-designing-complexity a:hover h1{ color: #006699; }
+
+body#page.issue-2 .page li.issue-2-new-literacies,
+body#article.issue-2-new-literacies,
+body#article.issue-2-new-literacies .author-bio{ border-color: #006699; }
+
+body#page.issue-2 .page li.issue-2-community-building,
+body#article.issue-2-community-building,
+body#article.issue-2-community-building .author-bio{ border-color: #006699; }
+
+body#page.issue-2 .page li.issue-2-designing-complexity,
+body#article.issue-2-designing-complexity,
+body#article.issue-2-designing-complexity .author-bio{ border-color: #006699; }
+
+
+/* @end */
+
+/* @group toc */
+
+@media screen and (min-width: 1137.77px){
+	body#article section.h-feed.issue-2-community-building div.articles,
+	body#article section.h-feed.issue-2-designing-complexity div.articles,
+	body#article section.h-feed.issue-2-miscellaneous div.articles{ margin-right: -0.5em; }
+
+	body#article section.h-feed.issue-2-community-building article.h-entry,
+	body#article section.h-feed.issue-2-designing-complexity article.h-entry,
+	body#article section.h-feed.issue-2-miscellaneous article.h-entry{ 
+		width: 33.25%; 
+		margin-right: -0.2em;
+	}
+
+	body#article section.h-feed.issue-2-community-building div.articles article.h-entry:nth-child(3n),
+	body#article section.h-feed.issue-2-designing-complexity div.articles article.h-entry:nth-child(3n),
+	body#article section.h-feed.issue-2-miscellaneous div.articles article.h-entry:nth-child(3n){
+  		margin-right: 0;
+	}
+	
+}
+
+
+/* @end */
+
+/* @group Home */
+
+/* @group #header */
+
+body.issue.issue-2 header#header,
+body.issue.issue-2 div#cover-art{
+  color: white;
+  background: #054575;
+}
+
+body#page.issue.issue-2 header#header h1.logo,
+body#page.issue.issue-2 header#header h1.logo a:hover{ color: white; }
+body#page.issue.issue-2 header#header p,
+body#page.issue.issue-2 header#header nav a{ color: #8699aa; }
+
+body#page.issue-1 header#header nav a:hover{ color: #fff; }
+
+/* @end */
+/* @end */
+
+/* @group am */
+
+
+body#article.issue-2-am main > header{
+  background: #307faf;
+  color: white;
+  margin-top: 96px;
+  padding-bottom: 32px;
+  text-align: center;
+  margin-right: -1px;
+  position: relative;
+  left: -1px;
+}
+
+body#article.issue-2-am main > header figure.figure-1{
+	margin-bottom: -64px;
+	margin-top: -64px;
+	z-index: 2;
+	width: 90%;
+	max-width: 384px;
+	display: inline-block;
+}
+
+body#article.issue-2-am main > header h1{ margin: 0 0 0.2em; }
+body#article.issue-2-am main > header h2{ font-size: 32px; }
+body#article.issue-2-am main > header p{ font-size: 24px; }
+
+	
+	body#article.issue-2-am main .page span.first-letter{
+	color: #ffbc66;
+	float: left;
+	width: 0;
+	margin: 0;
+	display: inline-block;
+	vertical-align: middle;
+	font-size: 192px;
+	z-index: -1;
+	position: relative;
+	top: 0.455em;
+	left: -0.45em;
+	}
+
+
+body#article.issue-2-am main .page p.p-1::before{
+	content: "A";
+}
+
+body#article.issue-2-am main .page figure.figure-2,
+body#article.issue-2-am main .page figure.figure-3,
+body#article.issue-2-am main .page figure.figure-4{
+	max-width: 384px;
+	margin: 1em auto;
+}
+
+body#article.issue-2-am main .page blockquote.blockquote-1{
+  font-family: "franklin-gothic-urw-cond", Arial, sans-serif;
+  font-style: normal;
+  color: #307faf;
+  text-indent: 0;
+  margin: 1em 0;
+  padding-top: 0.5em;
+  text-align: center;
+}
+
+body#article.issue-2-am main .page blockquote.blockquote-1::before,
+body#article.issue-2-am main .page blockquote.blockquote-1::after{
+	display: block;
+	position: static;
+	font-size: 72px;
+	line-height: 0.1;
+	color: inherit;
+	text-align: ;
+}
+
+body#article.issue-2-am main .page blockquote.blockquote-1::after{
+	content: "â€";
+	margin-left: -0.2em;
+	margin-top: 0.5em;
+	
+}
+
+body#article.issue-2-am main .page blockquote.blockquote-1 p{
+  font-size: 28px;
+  line-height: 1.4;
+
+}
+
+@media screen and (min-width: 568.88px){
+  body#article.issue-2-am main .page blockquote.blockquote-1{
+  width: 50%;
+  float: right;
+  text-align: left;
+   -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding-left: 1.5em;
+  margin-left: 16px;
+  margin-top: 0;
+  margin-bottom: 0.5em;
+}
+
+  body#article.issue-2-am main .page blockquote.blockquote-1 p{
+	font-size: 32px;
+}
+
+  body#article.issue-2-am main .page blockquote.blockquote-1::before{
+	position: absolute;
+	left: 0;
+	top: 0.125em;
+	color: #ccc;
+}
+
+  body#article.issue-2-am main .page blockquote.blockquote-1::after{ display: none; }
+
+}
+
+@media screen and (min-width: 853.33px){
+	
+	body#article.issue-2-am main .page span.first-letter{
+	font-size: 560px;
+	}
+
+	body#article.issue-2-am main > header { 
+		text-align: left; 		
+		padding-top: 32px;
+		padding-bottom: 32px;
+		margin-top: 64px;
+	}
+
+	body#article.issue-2-am main > header div.site-width{
+  		padding-right: 448px;
+	}
+	
+	body#article.issue-2-am main > header div.site-width::after {
+	  content: "";
+	  display: table;
+	  clear: both;
+	}
+
+	body#article.issue-2-am main > header h1,
+	body#article.issue-2-am main > header h2,
+	body#article.issue-2-am main > header p{ 
+		margin-left: 0;
+	}
+	
+	body#article.issue-2-am main > header figure.figure-1{
+		margin: 0;
+		position: absolute;
+		right: 0;
+		top: -64px;
+	}
+	
+	body#article.issue-2-am main .page figure.figure-2,
+	body#article.issue-2-am main .page figure.figure-3,
+	body#article.issue-2-am main .page figure.figure-4{
+		float: right;
+		margin-left: 32px;
+	}
+	
+	body#article.issue-2-am main .page figure.figure-2+p,
+	body#article.issue-2-am main .page figure.figure-3+p,
+	body#article.issue-2-am main .page figure.figure-4+p{
+		text-indent: 1.4em;
+    }
+	
+	body#article.issue-2-am main .page figure.figure-3{
+	  	float: left;
+	  	margin-right: 32px;
+	  	margin-left: 0;
+	}
+}
+
+@media screen and (min-width: 924.44px){
+	
+	body#article.issue-2-am main .page figure.figure-2,
+	body#article.issue-2-am main .page figure.figure-4{
+		margin-right: -96px;
+	}
+	
+	body#article.issue-2-am main .page figure.figure-3{
+	  	margin-left: -96px;
+	}
+
+}
+
+@media screen and (min-width: 1137.77px){
+	
+	body#article.issue-2-am main > header h1{ font-size: 56px; }
+	body#article.issue-2-am main > header h2{ font-size: 48px; }
+	body#article.issue-2-am main > header p{ 
+		font-size: 28px; 
+		max-width: 512px;
+	}		
+
+    body#article.issue-2-am main > header div.site-width{
+  	  padding-right: 512px;
+    }
+    
+	body#article.issue-2-am main > header figure.figure-1{
+		right: -32px;
+		max-width: none;
+		width: 512px;
+	}
+	
+}
+
+
+/* @end */
+
+/* @group as */
+
+body#article.issue-2-as main > header p{
+	color: #008764;
+}
+
+body#article.issue-2-as main figure.figure-1{
+	width: 256px;
+	max-width: 50%;
+	float: right;
+	margin-left: 16px;
+}
+
+body#article.issue-2-as main figure.figure-2{
+	width: 256px;
+	max-width: 50%;
+	float: left;
+	margin-right: 16px;
+}
+
+
+
+body#article.issue-2-as main blockquote.blockquote-1{
+  font-family: "franklin-gothic-urw-cond", Arial, sans-serif;
+  font-style: normal;
+  color: #d86220;
+  text-indent: 0;
+  margin: 1em 0;
+  padding-top: 0.5em;
+  text-align: center;
+}
+
+body#article.issue-2-as main blockquote.blockquote-1::before,
+body#article.issue-2-as main blockquote.blockquote-1::after{
+	display: block;
+	position: static;
+	font-size: 72px;
+	line-height: 0.1;
+    color: #5d16ab;
+}
+
+body#article.issue-2-as main blockquote.blockquote-1::after{
+	content: "â€";
+	margin-left: -0.2em;
+	margin-top: 0.5em;
+}
+
+body#article.issue-2-as main blockquote.blockquote-1 p{
+  font-size: 28px;
+  line-height: 1.4;
+  color: #5d16ab;
+}
+
+body#article.issue-2-as main aside.aside-1{
+  padding: 0 1em 1em 128px;
+  background: #da4900 url('/images/issue_2/as/molly.png') no-repeat left bottom;
+  background-size: contain;
+  color: white;
+  border: 1px solid;
+  margin: 1em 0;
+}
+
+body#article.issue-2-as main aside.aside-1 h1{
+	font-size: 18px;
+	color: white !important;
+}
+
+body#article.issue-2-as main aside.aside-1 p{
+    font-family: "franklin-gothic-urw", arial;
+    font-size: 16px;
+    line-height: 1.4em;
+}
+
+
+
+
+@media screen and (min-width: 563.2px){
+body#article.issue-2-as main blockquote.blockquote-1{
+  width: 50%;
+  float: right;
+  text-align: left;
+   -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding-left: 1.5em;
+  margin-left: 16px;
+}
+
+body#article.issue-2-as main blockquote.blockquote-1 p{
+	font-size: 32px;
+}
+
+body#article.issue-2-as main blockquote.blockquote-1::before{
+	position: absolute;
+	left: 0;
+	top: 0;
+	color: #ccc;
+}
+
+body#article.issue-2-as main blockquote.blockquote-1::after{ display: none; }
+
+}
+
+
+@media screen and (min-width: 924.44px){
+  body#article.issue-2-as main > header h1,
+  body#article.issue-2-as main > header h2,
+  body#article.issue-2-as main > header p{
+    text-align: left;
+    max-width: none;
+    margin-left: 0;
+  }
+
+  body#article.issue-2-as main > header h1{
+    font-size: 6.4vw;
+  }
+
+  body#article.issue-2-as main > header h1 span.civic-communication,
+  body#article.issue-2-as main > header h1 span.literacies{
+	display: inline-block;
+	position: relative;
+	margin-right: 2em;
+  }
+
+  body#article.issue-2-as main > header h1 span.civic-communication::after,
+  body#article.issue-2-as main > header h1 span.literacies::after{  
+  	content: "";
+	position: absolute;
+	top: 0.45em;
+	right: 0.125em;
+	bottom: 0.125em;
+	left: 0;
+	background-color: #fcc94c;
+	z-index: -1;
+	-webkit-transform: rotate(1deg);
+	-moz-transform: rotate(1deg);
+  }
+
+  body#article.issue-2-as main > header h1 span.literacies::after{
+	left: -0.125em;
+	right: -0.25em;
+	-webkit-transform: rotate(-1deg);
+	-moz-transform: rotate(-1deg);
+  }
+  
+  body#article.issue-2-as main > header h3,
+  body#article.issue-2-as main > header p{
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 640px;
+	text-align: left;
+  }
+  
+
+body#article.issue-2-as main figure.figure-1{
+	width: 384px;
+    shape-outside: url('/images/issue_2/as/1_mask_384.png');
+    shape-margin: 0;
+    margin-left: 0;
+	margin-right: -80px;
+ }
+
+body#article.issue-2-as main figure.figure-1 img{
+	position: relative;
+	left: 1em;
+	top: 1em;
+	z-index: -1;
+ }
+ 
+body#article.issue-2-as main figure.figure-2{
+	width: 256px;
+	margin-left: -80px;
+    shape-outside: url('/images/issue_2/as/2_mask_256.png');
+    shape-margin: 1em;
+}
+
+body#article.issue-2-as main figure.figure-2 img{
+	position: relative;
+	right: 1em;
+	top: 1em;
+	z-index: -1;
+ }
+   
+body#article.issue-2-as main blockquote.blockquote-1{
+	float: right;
+	width: 256px;
+	margin-right: -96px;
+	text-align: left;
+}
+
+body#article.issue-2-as main blockquote.blockquote-1::before{
+	font-size: 72px;
+	color: #ddd;
+}
+
+  body#article.issue-2-as main blockquote.blockquote-1 p{
+	font-size: 32px;
+	line-height: 1.4em;
+    color: #7f3cc8;
+  }
+ 
+}
+
+
+@media screen and (min-width: 1137.778px){
+
+  body#article.issue-2-as main > header{ margin-bottom: 0; }
+  body#article.issue-2-as main > header h1{
+    font-size: 4em;
+    margin-top: 1em;
+  }
+  
+  body#article.issue-2-as main > header h3,
+  body#article.issue-2-as main > header p{
+	max-width: 640px;
+	margin-left: 192px;
+  }
+  
+  body#article.issue-2-as main figure.figure-1{
+	    shape-margin: 1em;
+	  margin-right: -176px;
+  }
+  
+  body#article.issue-2-as main figure.figure-2{
+	shape-margin: 1em;
+	margin-left: -176px;
+ }
+ 
+
+}
+
+
+/* @end */
+
+/* @group cm */
+
+body#article.issue-2-cm main > header figure.figure-1{
+  margin-bottom: 32px;
+  margin-top: 32px;
+}
+body#article.issue-2-cm main > header h1{
+  text-transform: uppercase;
+}
+
+body#article.issue-2-cm main > header h1 span.collaboratively,
+body#article.issue-2-cm main > header h1 span.designing,
+body#article.issue-2-cm main > header h1 span.public-services{
+	display: block;
+	white-space: nowrap;
+}
+
+body#article.issue-2-cm main > header h1 span.collaboratively{ 
+	font-size: 37px; 
+	font-size: 8.1vw;
+	color: #bc3b03;
+}
+
+body#article.issue-2-cm main > header h1 span.designing{ 
+	color: #d86220;
+	font-size: 64px; 
+	font-size: 14vw;
+	margin-bottom: 0.02em;
+}
+
+body#article.issue-2-cm main > header h1 span.public-services{ 
+	font-size: 40px;
+	font-size: 8.8vw;
+	letter-spacing: 0.015em;
+	color: #eb952e;
+}
+    
+body#article.issue-2-cm main figure.figure-3{
+	float: right;
+	width: 33%;
+	max-width: 384px;
+	margin-left: 32px;
+}
+
+@media screen and (min-width: 711.11px){
+
+	body#article.issue-2-cm main > header figure.figure-1{
+	  margin-top: 48px;
+	  margin-bottom: 0;
+	}
+	
+	body#article.issue-2-cm main > header h1 span.collaboratively{ 
+		font-size: 72px;
+		color: #bc3b03;
+	}
+	
+	body#article.issue-2-cm main > header h1 span.designing{ 
+		font-size: 124px;
+	}
+	
+	body#article.issue-2-cm main > header h1 span.public-services{ 
+		font-size: 78px;
+	}
+	
+	body#article.issue-2-cm main > header h3,
+	body#article.issue-2-cm main > header p{ font-size: 28px; }
+	
+
+	body#article.issue-2-cm main figure.figure-2,
+	body#article.issue-2-cm main figure.figure-3{
+		width: 50%;
+		max-width: 384px;
+		float: right;	
+		margin-left: 32px;
+		margin-top: 32px;
+    }    
+    
+    body#article.issue-2-cm main figure.figure-4{
+		float: left;
+		width: 50%;
+		max-width: 384px;
+		margin-right: 64px;
+    }
+
+}
+
+
+@media screen and (min-width: 924.44px){
+
+	body#article.issue-2-cm main > header{
+	  text-align: left;
+	}
+	
+	body#article.issue-2-cm main > header div.site-width::after {
+	  content: "";
+	  display: table;
+	  clear: both;
+	}
+		
+	body#article.issue-2-cm main > header img,
+	body#article.issue-2-cm main > header h1,
+	body#article.issue-2-cm main > header h2,
+	body#article.issue-2-cm main > header h3,
+	body#article.issue-2-cm main > header p{
+		float: left;
+		width: 50%;
+	}
+	
+	body#article.issue-2-cm main > header img{
+  		margin-top: 32px;
+	}
+	
+	body#article.issue-2-cm main > header h1,
+	body#article.issue-2-cm main > header h2,
+	body#article.issue-2-cm main > header h3,
+	body#article.issue-2-cm main > header p{
+		margin-left: 32px;
+		width: 45%;
+	}
+
+	body#article.issue-2-cm main > header h1{ margin-top: 48px; }
+		
+	body#article.issue-2-cm main > header h1 span.collaboratively{ 
+		font-size: 4.6vw; 
+	}
+	
+	body#article.issue-2-cm main > header h1 span.designing{ 
+		font-size: 7.9vw; 
+		margin-bottom: 0.04em;
+	}
+	
+	body#article.issue-2-cm main > header h1 span.public-services{ 
+		font-size: 5vw;
+	}
+	
+	body#article.issue-2-cm main > header h3,
+	body#article.issue-2-cm main > header p{
+	  font-size: 24px;
+	}	
+	
+	body#article.issue-2-cm main > header p{ width: 46%; }
+
+	body#article.issue-2-cm main figure.figure-2{
+		width: 512px;
+		max-width: none;
+		margin-right: -96px;
+    }
+
+    
+    body#article.issue-2-cm main figure.figure-3{
+		margin-right: -96px;
+    }
+    
+    body#article.issue-2-cm main figure.figure-4{
+	margin-left: -96px;
+	margin-top: 24px;
+	}
+
+}
+
+@media screen and (min-width: 1137.77px){
+  body#article.issue-2-cm main figure.figure-2{ margin-right: -192px; }
+}
+
+
+@media screen and (min-width: 1279.99px){ 
+	body#article.issue-2-cm main > header div.site-width{ max-width: 1152px; }	
+}
+
+
+@media screen and (min-width: 1422.22px){
+	
+	body#article.issue-2-cm main .page{ padding-top: 0; }
+	
+	body#article.issue-2-cm main > header div.site-width{ max-width: 1280px; }
+	
+	body#article.issue-2-cm main > header h1 span.collaboratively{ 
+		font-size: 72px; 
+		margin-top: 24px;
+	}
+	
+	body#article.issue-2-cm main > header h1 span.designing{
+		font-size: 124px; 
+		margin-bottom: 0.03em;
+	}
+	
+	body#article.issue-2-cm main > header h1 span.public-services{ 
+		font-size: 78px;
+		color: #eb952e;
+	}
+	
+	body#article.issue-2-cm main > header h3,
+	body#article.issue-2-cm main > header p{ font-size: 28px; }
+	
+	body#article.issue-2-cm main > header p{ width: 47%; }
+}
+
+/* @end */
+
+/* @group dn */
+
+
+  body#article.issue-2-dn header#header ,
+  body#article.issue-2-dn main > header {
+	color: white; 
+	background: #a64a28;
+  }
+  
+    body#article.issue-2-dn main > header {
+	background: url(/images/issue_2/dn/mesh_network.png) left bottom no-repeat #a64a28;
+	background-size: cover;
+	padding-top: 16px;
+  }
+
+
+  body#article.issue-2-dn header#header a:hover{ color: white; }
+  body#article.issue-2-dn header#header nav a{
+	color: #ffe97f;  
+  }
+
+  body#article.issue-2-dn main > header ,
+  body#article.issue-2-dn main > header h3{ margin-bottom: 0; }
+  body#article.issue-2-dn main > header h3{ 
+  	padding-bottom: 1.8em; }
+  	
+  body#article.issue-2-dn main > header { padding-top: 32px; }
+
+  
+  body#article.issue-2-dn main .page { padding-top: 0; }
+
+  body#article.issue-2-dn main > header h1{
+	  font-family: "abril-fatface", Georgia, serif;
+	  line-height: 1;
+	  font-style: italic;
+	  font-weight: 400;
+	  margin-bottom: 0.2em;
+}
+
+  body#article.issue-2-dn main > header h2{
+  font-family: "franklin-gothic-urw", Arial, sans-serif;
+  text-transform: uppercase;
+  font-size: 20px;
+  line-height: 1.3;
+}
+
+  body#article.issue-2-dn main > header p{
+	line-height: 1.3;
+	padding-bottom: 96px;
+	color: #ffc57e;		
+  }
+
+  body#article.issue-2-dn main aside.publication-information{ margin-top: 64px; }
+  body#article.issue-2-dn main aside.publication-information li{ border-color: #e59d4c; }
+  body#article.issue-2-dn main aside.publication-information li a{ color: #485fa5; }
+  
+  body#article.issue-2-dn main .page .celebrated-content{
+  background: #ffbc66;
+  text-align: left;
+  color: inherit;
+  font-style: normal;
+  font-size: inherit;
+  margin-bottom: 1em;
+  padding-top: 64px;
+}
+
+  body#article.issue-2-dn main .page .celebrated-content span.first-letter{
+	color: #bc3b03;
+	position: absolute;
+	top: -308px;
+	left: -96px;
+	font-size: 328px;
+	z-index: -1;
+	-webkit-text-stroke: 4px #ffbc66;
+	-moz-text-stroke: 4px #ffbc66;
+}
+
+  body#article.issue-2-dn main .page .celebrated-content span.first-stanza::before{
+	content: "A";
+}
+  body#article.issue-2-dn main .page .celebrated-content span.first-stanza{
+  font-family: "franklin-gothic-urw-cond", Arial, sans-serif;
+  text-transform: none;
+  font-weight: normal;
+  letter-spacing: normal;
+  color: inherit;
+  font-size: 28px;
+  line-height: 1.3;
+  z-index: 2;
+  display: inline;
+  margin-bottom: 0.2em;
+}
+
+  body#article.issue-2-dn main .page .celebrated-content p{
+	position: relative;
+	z-index: 1;
+}
+
+  body#article.issue-2-dn main figure.figure-1,
+  body#article.issue-2-dn main figure.figure-2{ 
+	margin: 1em auto;
+  }
+
+  
+  body#article.issue-2-dn main p.big-question code{
+  background: #ffefc0;
+  font-family: "franklin-gothic-urw", Arial, sans-serif;
+  text-align: center;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  display: block;
+  font-size: inherit;
+  padding: 0.25em 0;
+  font-weight: normal;
+  position: relative;
+  color: #a64a28;
+}
+
+
+
+body#article.issue-2-dn main p.big-question code::after{
+	content: "";
+	position: absolute;
+	top: 0.2em;
+	right: 0.05em;
+	bottom: 0.2em;
+	left: 0.05em;
+	background-color: #fcc94c;
+	z-index: -1;
+	-webkit-transform: rotate(2deg)
+}
+
+  body#article.issue-2-dn main p.big-question+p{
+	text-indent: 0;
+  }
+
+
+@media screen and (min-width: 568.88px){
+  body#article.issue-2-dn main figure.figure-1{
+    width: 256px;
+    float: right;
+    -webkit-transform: rotate(3deg);
+    margin-left: 32px;
+  }
+
+  body#article.issue-2-dn main figure.figure-2{
+	width: 256px;
+	float: left;
+	margin-right: 32px;
+	margin-bottom: 0;
+  }
+
+  body#article.issue-2-dn main > header {
+	background-size: 115%;
+  }
+  
+  body#article.issue-2-dn main > header h1{ 
+  	font-size: 8.2vw; 
+  	margin-top: 32px;
+  	text-indent: -0.08em;
+  	margin-bottom: 0.125em;
+  }
+  body#article.issue-2-dn main > header h2{ font-size: 24px; }
+  body#article.issue-2-dn main > header p{ padding-bottom: 72px; }
+}
+
+
+@media screen and (min-width: 711.11px){
+  body#article.issue-2-dn main > header { background-size: contain; }
+  body#article.issue-2-dn main > header h1{ margin-top: 64px; }	
+}
+
+@media screen and (min-width: 853.33px){
+  
+  body#article.issue-2-dn main > header h1,
+  body#article.issue-2-dn main > header h2,
+    body#article.issue-2-dn main > header p{
+	margin-left: 0;
+  }
+
+
+  body#article.issue-2-dn main > header div.site-width {
+	padding-left: 192px;
+	text-align: left;
+  }
+  
+
+}
+
+@media screen and (min-width: 924.44px){
+  body#article.issue-2-dn main > header {
+    padding-top: 128px;
+    padding-bottom: 64px;
+  }
+
+  body#article.issue-2-dn header#header{
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	background: none;
+  }
+
+  body#article.issue-2-dn main > header div.site-width { padding-left: 96px; }
+  
+  body#article.issue-2-dn main > header h1{ font-size: 84px; }
+  
+  body#article.issue-2-dn main figure.figure-1{ 
+  	margin-right: -96px; 
+  	width: 384px;
+  }
+
+  body#article.issue-2-dn main figure.figure-2{
+	width: 384px;
+	margin-left: -96px; 
+  }
+
+}
+
+@media screen and (min-width: 1137.78px){
+  body#article.issue-2-dn main > header div.site-width { padding-left: 192px; }
+  
+
+}
+
+/* @end */
+
+/* @group es */
+
+body#article.issue-2-es span.inclusion{
+	display: inline-block;
+	position: relative;
+}
+
+body#article.issue-2-es span.inclusion::after{
+	content: "";
+	position: absolute;
+	top: 0.2em;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background-color: #fcc94c;
+	z-index: -1;
+	-webkit-transform: rotate(2deg)
+}
+
+body#article.issue-2-es main > header p{
+	color: #333;
+	font-family: ff-tisa-web-pro, Georgia, serif;
+	font-size: 28px;
+	line-height: 1.4;
+	font-style: italic;
+}
+
+body#article.issue-2-es main blockquote.blockquote-1{
+  font-family: "franklin-gothic-urw-cond", Arial, sans-serif;
+  font-style: normal;
+  color: #d86220;
+  text-indent: 0;
+  margin: 2em 0;
+  padding-top: 0.5em;
+  text-align: center;
+}
+
+body#article.issue-2-es main blockquote.blockquote-1::before,
+body#article.issue-2-es main blockquote.blockquote-1::after{
+	display: block;
+	position: static;
+	font-size: 72px;
+	line-height: 0.1;
+	color: inherit;
+	text-align: ;
+}
+
+body#article.issue-2-es main blockquote.blockquote-1::after{
+	content: "â€";
+	margin-left: -0.2em;
+	margin-top: 0.5em;
+	
+}
+
+body#article.issue-2-es main blockquote.blockquote-1 p{
+  font-size: 28px;
+  line-height: 1.4;
+
+}
+body#article.issue-2-es ol {
+	padding-left: 2em;
+}
+body#article.issue-2-es ol li::before{ display: none; }body#article.issue-2-es ol li{
+	position: relative;
+}
+
+body#article.issue-2-es ol li span.count{ 
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 1.6em;
+	margin-left: -2em;
+	text-align: right;
+}
+
+
+@media screen and (min-width: 563.2px){
+body#article.issue-2-es main blockquote.blockquote-1{
+  width: 50%;
+  float: right;
+  text-align: left;
+   -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding-left: 1.5em;
+  margin-left: 32px;
+}
+
+}
+@media screen and (min-width: 924.44px){
+  body#article.issue-2-es main > header h1,
+  body#article.issue-2-es main > header h2,
+  body#article.issue-2-es main > header p{
+    text-align: left;
+    max-width: none;
+    margin-left: 0;
+  }
+
+  body#article.issue-2-es main > header h1{
+    font-size: 6.4vw;
+  }
+  
+  body#article.issue-2-es main > header h3,
+  body#article.issue-2-es main > header p{
+	text-align: left;
+	max-width: 640px;
+	margin-left: auto;
+	margin-right: auto;
+	
+  }
+  
+  body#article.issue-2-es main blockquote.blockquote-1{
+	float: right;
+	width: 256px;
+	margin-right: -32px;
+  }
+  
+
+}
+
+@media screen and (min-width: 1137.778px){
+
+  body#article.issue-2-es main > header{ margin-bottom: 0; }
+  body#article.issue-2-es main > header h1{
+    font-size: 4em;
+    margin-top: 1em;
+    max-width: 8em;
+  }
+  
+  body#article.issue-2-es main > header h3,
+  body#article.issue-2-es main > header p{
+	margin-left: 192px;
+}
+  
+ body#article.issue-2-es main blockquote.blockquote-1{
+	margin-right: -128px;
+  }
+}
+
+
+/* @end */
+
+/* @group gb */
+
+body#article.issue-2-gb main > header h1{
+  text-transform: uppercase;
+  font-family: abril-fatface, georgia, serif;
+  font-weight: normal;
+  color: #d8611d;
+  letter-spacing: 0.02em;
+  line-height: 0.9;
+}
+
+body#article.issue-2-gb main > header h1 span{ 
+	display: block; 
+	position: relative;
+	white-space: nowrap;
+}
+
+body#article.issue-2-gb main > header h1 span.with,
+body#article.issue-2-gb main > header h1 span.and-by{ 
+	padding-right: 50%;
+	text-align: right;
+}
+
+body#article.issue-2-gb main > header h1 span.and-of,
+body#article.issue-2-gb main > header h1 span.and-for{ 
+	padding-left: 50%;
+	text-align: left;
+}
+
+body#article.issue-2-gb main > header h1 span.with{ left: -0.4em; }
+body#article.issue-2-gb main > header h1 span.and-of{ left: -1.7em; }
+body#article.issue-2-gb main > header h1 span.and-by{ left: 0.4em; }
+body#article.issue-2-gb main > header h1 span.and-for{ left: -0.8em; }
+
+body#article.issue-2-gb main .page span.first-letter{
+  color: #93abf4;
+  z-index: -1;
+  float: left;
+  width: 0;
+  margin-right: 0;
+  position: relative;
+  left: -0.39em;
+  font-size: 12em;
+}
+
+
+body#article.issue-2-gb main .page figure.figure-1,
+body#article.issue-2-gb main .page figure.figure-2,
+body#article.issue-2-gb main .page figure.figure-4{
+	max-width: 512px;
+	margin: 1em auto;
+}
+
+body#article.issue-2-gb main .page figure.figure-3,
+body#article.issue-2-gb main .page figure.figure-4{ margin-top: 32px; }
+body#article.issue-2-gb main .page figure.figure-3 p{ margin: 0 auto; }
+
+body#article.issue-2-gb main .page blockquote.blockquote-1.pull-quote,
+body#article.issue-2-gb main .page blockquote.blockquote-1.pull-quote::before,
+body#article.issue-2-gb main .page blockquote.blockquote-1.pull-quote::after{ color: #6361ad; }
+
+body#article.issue-2-gb main .page blockquote.blockquote-2.pull-quote,
+body#article.issue-2-gb main .page blockquote.blockquote-2.pull-quote::before,
+body#article.issue-2-gb main .page blockquote.blockquote-2.pull-quote::after{ color: #2a6f9a; }
+
+
+@media screen and (min-width: 568.88px){ 
+	body#article.issue-2-gb main > header h1{ 
+		font-size: 9vw; 
+		margin-top: 0.2em;
+		height: 3.4em;
+	} 
+}
+
+@media screen and (min-width: 711.11px){ 
+	body#article.issue-2-gb main > header h1{ 
+		font-size: 84px; 
+		margin-top: 64px;
+	} 
+	
+}
+
+@media screen and (min-width: 853.33px){
+  	body#article.issue-2-gb main .page figure.figure-1,
+  	body#article.issue-2-gb main .page figure.figure-2,
+  	body#article.issue-2-gb main .page figure.figure-4{
+  		max-width: 512px;
+	}
+
+  	body#article.issue-2-gb main .page figure.figure-1{
+		float: right;
+		max-width: 512px;
+		margin-left: 32px;
+		margin-right: -64px;
+		position: relative;
+	}
+
+    body#article.issue-2-gb main .page figure.figure-1::after{
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background: #636194;
+	z-index: -1;
+	}
+	
+	body#article.issue-2-gb main .page figure.figure-1 img{
+		-webkit-transform: rotate(-3deg);
+		-moz-transform: rotate(-3deg);
+		transform: rotate(-3deg);
+		position: relative;
+		top: 1px;
+		left: -3px;
+		padding: 4px;
+		border: 1px dashed #1bceda;
+	}
+  body#article.issue-2-gb main .page figure.figure-1+p,
+  body#article.issue-2-gb main .page figure.figure-2+p,
+  body#article.issue-2-gb main .page figure.figure-4+p{
+    text-indent: 1.4em;
+  }
+	body#article.issue-2-gb main .page blockquote.blockquote-1.pull-quote{ margin-right: -64px; }
+
+  	body#article.issue-2-gb main .page figure.figure-2,
+  	body#article.issue-2-gb main .page figure.figure-4{
+		float: left;
+		max-width: 512px;
+		margin-right: 32px;
+		margin-left: -64px;
+  		position: relative;
+    }
+    
+    body#article.issue-2-gb main .page figure.figure-2::after{
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background: #636194 url(images/tile_red.jpg);
+	z-index: -1;
+	}
+	
+	body#article.issue-2-gb main .page figure.figure-2 img{
+		-webkit-transform: rotate(3deg);
+		-moz-transform: rotate(3deg);
+		transform: rotate(3deg);
+		position: relative;
+		top: 1px;
+		left: -3px;
+		padding: 4px;
+		border: 1px dashed #fdf317;
+	}
+    
+}
+
+@media screen and (min-width: 995.55px){
+  	body#article.issue-2-gb main .page figure.figure-1{ margin-right: -128px; }
+body#article.issue-2-gb main .page blockquote.blockquote-1.pull-quote{ margin-right: -128px; }
+  	body#article.issue-2-gb main .page figure.figure-2,
+  	body#article.issue-2-gb main .page figure.figure-4{ margin-left: -128px; }
+}
+
+
+@media screen and (min-width: 1137.77px){ 
+
+	body#article.issue-2-gb main > header h1{
+  	position: relative;
+  	left: 56px;
+    }
+	body#article.issue-2-gb main > header p span.first-sentence,
+	body#article.issue-2-gb main > header p span.second-sentence{
+	position: absolute;
+	top: 90px;
+	left: 0;
+	right: 50%;
+	padding-right: 100px;
+	font-size: 24px;
+	text-align: right;
+	white-space: nowrap;
+	}
+	
+	body#article.issue-2-gb main > header p span.second-sentence{
+	text-align: left;
+	left: 50%;
+	right: 0;
+	top: 168px;
+	padding-right: 0;
+	padding-left: 100px;
+	}
+	
+	body#article.issue-2-gb main .page figure.figure-1{ margin-right: -192px; }
+	body#article.issue-2-gb main .page figure.figure-2,
+	body#article.issue-2-gb main .page figure.figure-4{ margin-left: -192px; }
+
+}
+
+/* @end */
+
+/* @group jh */
+
+
+
+
+  body#article.issue-2-jh header#header ,
+  body#article.issue-2-jh main > header {
+	color: white; 
+	background: #d8611d;
+  }
+  
+  body#article.issue-2-jh main > header {
+	background: #d8611d;
+	padding: 32px 0 64px;
+  }
+  
+  body#article.issue-2-jh header#header a:hover{ color: white; }
+  body#article.issue-2-jh header#header nav a{
+	color: #ffe97f;  
+  }
+
+  body#article.issue-2-jh main > header h1 {
+  	line-height: 1.3;
+  	margin-bottom: 0;
+  	margin-top: 0.8em;
+  }
+
+  body#article.issue-2-jh main > header h1 span.partnerships{
+	color: #222;
+	display: block;  
+  }
+
+  body#article.issue-2-jh aside.aside-1{	
+	font-family: "franklin-gothic-urw", arial, sans-serif;
+    font-size: 1rem;
+    margin: 1.5em 0;
+  }
+
+  body#article.issue-2-jh aside.aside-1 h1{
+	font-family: "franklin-gothic-urw", arial, sans-serif;
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: inherit;
+    margin-top: 0;
+  }
+
+	body#article.issue-2-jh aside.aside-1 p,
+	body#article.issue-2-jh aside.aside-1 li{
+		line-height: 1.4em;	
+	}
+  body#article.issue-2-jh aside:not(.publication-information) ul{ margin-bottom: 0;	 }
+
+body#article.issue-2-jh main .page figure.figure-2{ 
+	max-width: 512px; 
+	margin: 2em auto;
+}
+
+body#article.issue-2-jh main .page blockquote.blockquote-1.pull-quote p,
+body#article.issue-2-jh main .page blockquote.blockquote-1.pull-quote::before,
+body#article.issue-2-jh main .page blockquote.blockquote-1.pull-quote::after{
+	color: #6361ad;
+}
+
+body#article.issue-2-jh main .page figure.figure-1+p,
+body#article.issue-2-jh main .page blockquote.blockquote-1.pull-quote+p{ text-indent: 1.4em; }
+
+@media screen and (min-width: 711.11px){
+  body#article.issue-2-jh main > header h1 span.partnerships{ font-size: 0.85em; }
+}
+
+@media screen and (max-width: 995.55px){
+ body#article.issue-2-jh aside.aside-1 {	
+    padding: 1em;
+    background: #ffda85;
+  }
+  body#article.issue-2-jh aside.aside-1 a{ color: #485fa5; }
+}
+
+@media screen and (min-width: 995.55px){
+	
+	  body#article.issue-2-jh main > header {
+		text-align: left;
+	    background-size: contain;
+	  }
+	  
+	  body#article.issue-2-jh main > header h1,
+	  body#article.issue-2-jh main > header h2,
+	  body#article.issue-2-jh main > header h3{
+		margin-left: 0;
+		width: auto;
+	  }
+	
+	  body#article.issue-2-jh main > header h1{ font-size: 64px; }
+	  body#article.issue-2-jh main > header h1 span.partnerships{
+	  	font-size: 54px;
+	  	word-spacing: 0.01em;
+	  }	
+	
+	  body#article.issue-2-jh main blockquote.blockquote-1{
+		float: right;
+		width: 256px;
+		margin-right: -96px;
+      }
+  
+  
+	body#article.issue-2-jh aside.aside-1 {	
+		width: 256px;
+		float: right;
+		margin-right: -96px;
+		margin-left: 32px;
+		margin-top: 44px;
+		border: none;
+		border-left: 1px solid #ccc;
+		background: none;
+		padding: 0 0 0 1rem;
+	}
+	
+}
+
+@media screen and (min-width: 1137.77px){ body#article.issue-2-jh aside.aside-1 { margin-right: -192px; } }
+
+/* @end */
+
+/* @group jw */
+
+
+body#article.issue-2-jw main > header h1 span.untangling{
+	  font-family: "franklin-gothic-urw-cond", Arial, sans-serif;
+	  text-transform: uppercase;
+	  font-size: 72px;
+	  letter-spacing: -0.03em;
+	  color: #222;
+	  margin-bottom: 0.15em;
+	  display: block;
+}
+
+body#article.issue-2-jw main > header h1 span.untangling span{
+	position: relative;
+	display: inline-block;
+	line-height: 1;
+   -webkit-text-stroke: 2px white;
+}
+
+body#article.issue-2-jw main > header h1 span.untangling span.char-1{
+	top: 0.1em;
+	-webkit-transform: rotate(-4deg);
+	-moz-transform: rotate(-4deg);
+	transform: rotate(-4deg);
+	margin-right: -0.1em;
+}
+
+body#article.issue-2-jw main > header h1 span.untangling span.char-2{ margin-right: -0.06em; }
+
+body#article.issue-2-jw main > header h1 span.untangling span.char-3{
+	top: 0.1em;
+	-webkit-transform: rotate(4deg);
+	-moz-transform: rotate(4deg);
+	margin-right: -0.1em;
+}
+
+body#article.issue-2-jw main > header h1 span.untangling span.char-4{
+	-webkit-transform: rotate(-4deg);
+	-moz-transform: rotate(-4deg);
+	margin-right: -0.04em;
+}
+
+body#article.issue-2-jw main > header h1 span.untangling span.char-5{
+	top: 0.04em;
+	-webkit-transform: rotate(4deg);
+	-moz-transform: rotate(4deg);
+	margin-right: -0.1em;
+}
+
+body#article.issue-2-jw main > header h1 span.untangling span.char-6{
+	top: 0.08em;
+	-webkit-transform: rotate(-2deg);
+	-moz-transform: rotate(-2deg);
+	margin-right: -0.08em;
+}
+
+body#article.issue-2-jw main > header h1 span.untangling span.char-7{
+	top: 0.06em;
+	-webkit-transform: rotate(4deg);
+	-moz-transform: rotate(4deg);
+	margin-right: -0.1em;
+}
+
+body#article.issue-2-jw main > header h1 span.untangling span.char-8{
+	top: 0.12em;
+	-webkit-transform: rotate(-3deg);
+	-moz-transform: rotate(-3deg);
+	margin-right: -0.08em;
+}
+
+body#article.issue-2-jw main > header h1 span.untangling span.char-9{
+	top: 0.06em;
+	-webkit-transform: rotate(3deg);	
+	-moz-transform: rotate(3deg);	
+	margin-right: -0.1em;
+}
+
+body#article.issue-2-jw main > header h1 span.complexity{
+	  font-family: "abril-fatface", Georgia, serif;
+	  text-transform: uppercase;
+	  font-weight: normal;
+	  letter-spacing: 0.78em;
+	  margin-right: -0.8em;
+	  font-size: 24px;
+	  display: block;
+	  margin-bottom: 1em;
+}
+
+body#article.issue-2-jw main > header h2 {
+    font-family: "franklin-gothic-urw", arial;
+    font-size: 18px;
+    line-height: 1.4em;
+	font-weight: 600;
+	color: #d86220;
+	display: inline-block;
+	  margin: 0 auto 0.4em;
+	  padding-bottom: 1em;
+	  border-bottom: 1px solid;
+}
+
+
+
+  
+  body#article.issue-2-jw main > header figure.figure-1{
+	  width: 90%;
+	  position: absolute;
+	  left: 50%;
+	  margin-left: -45%;
+	  z-index: -1;
+	  opacity: 0.33;
+}
+
+body#article.issue-2-jw main figure.figure-2{ margin-top: 2em; }
+
+
+@media screen and (min-width: 711.11px){
+	  body#article.issue-2-jw main > header figure.figure-1{
+	  width: 50%;
+	  margin-left: -25%;
+	}
+
+	body#article.issue-2-jw main > header h1 span.untangling{ font-size: 12vw; }
+	body#article.issue-2-jw main > header h1 span.complexity{ font-size: 3.44vw; }
+	body#article.issue-2-jw main > header h2 { font-size: 24px; }
+	body#article.issue-2-jw main > header p { font-size: 28px; }
+}
+
+
+@media screen and (min-width: 1137.77px){
+
+	body#article.issue-2-jw main > header div.site-width{
+	  text-align: left;
+	  padding-left: 544px;
+	}
+	
+  body#article.issue-2-jw main > header div.site-width::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  body#article.issue-2-jw main > header figure.figure-1{
+	  width: 512px;
+	  max-width: 512px;
+	  margin-left: -544px;
+	  float: left;
+	  position: relative;
+	  left: -6px;
+	  opacity: 1;
+	  z-index: 1;
+}
+
+  body#article.issue-2-jw main > header figure.figure-1 img{ width: 512px; }
+
+	body#article.issue-2-jw main > header h1,
+	body#article.issue-2-jw main > header h2,
+	body#article.issue-2-jw main > header h3{
+  	  text-align: center;
+  	  margin-left: auto;
+  	  margin-right: auto;
+  	  display: block;
+    }
+    
+    body#article.issue-2-jw main > header h1 span.untangling{ 
+		font-size: 120px; 
+		margin-top: -0.2em;
+		margin-left: -0.08em;
+	}
+	
+	body#article.issue-2-jw main > header h1 span.complexity{ font-size: 34.4px; }
+
+}
+
+/* @end */
+
+/* @group interview */
+
+  body#article.issue-2-interview main .page{
+  padding-top: 0;
+}
+
+  body#article.issue-2-interview header#header,
+  body#article.issue-2-interview header#header h1 a,
+  body#article.issue-2-interview main > header h1,
+  body#article.issue-2-interview main > header h2,
+  body#article.issue-2-interview main > header h3{
+	color: white;  
+  }
+
+body#article.issue-2-interview header#header nav a{
+	color: #ffc500;
+}
+
+  body#article.issue-2-interview header#header,
+  body#article.issue-2-interview main > header{
+    background: #333;
+  }
+  
+  body#article.issue-2-interview main > header{
+	padding-top: 24px;
+	padding-bottom: 24px;
+  }
+
+  body#article.issue-2-interview main > header h1,
+  body#article.issue-2-interview main > header h2,
+  body#article.issue-2-interview main > header h3,
+  body#article.issue-2-interview main > header h3 span.by{
+    text-transform: uppercase;
+  font-family: Monaco, "Courier New", Courier, mono;
+  font-weight: 400;
+  text-align: left;
+  font-size: 16px;
+  margin-top: 0;
+  margin-bottom: 0.8em;
+  margin-left: 0;
+	letter-spacing: 2em;
+	line-height: 2em;
+	max-width: none;
+  }
+  
+  body#article.issue-2-interview main > header h2{
+  	font-size: 24px;
+  }
+  
+  body#article.issue-2-interview main .page h2.question::before,
+  body#article.issue-2-interview main .page h2.question+p::before{
+	content: "AM: ";
+	font-family: "abril-titling-condensed", Georgia, serif;
+	font-size: 18px;
+  color: #ce4d31;
+  letter-spacing: 0.05em;
+  font-style: normal;
+}
+
+  body#article.issue-2-interview main .page h2.question+p::before{
+  content: "DO: ";
+  color: #555;
+ }
+
+/* @group animation */
+
+  @-webkit-keyframes fadeInOut,
+  @-moz-keyframes fadeInOut,
+  @keyframes fadeInOut {
+    0% {opacity: 1;}
+    50% {opacity: 0;}
+    100% {opacity: 1;}
+  }
+  
+  body#article.issue-2-interview main > header h2 span.faux-cursor{
+	content: "";
+	width: 0.1em;
+	padding-left: 0.1em;
+	border-right: 0.1em solid #ff968b;
+	line-height: 1;
+	position: relative;
+	overflow: hidden;
+	display: inline-block;
+  -webkit-animation-name: fadeInOut;
+    -webkit-animation-duration: 1.2s;
+    -webkit-animation-delay: 0.4s;
+  -webkit-animation-iteration-count: infinite;
+  -moz-animation-name: fadeInOut;
+    -moz-animation-duration: 1.2s;
+    -moz-animation-delay: 0.4s;
+  -moz-animation-iteration-count: infinite;
+  animation-name: fadeInOut;
+  animation-duration: 1.2s;
+  animation-delay: 0.4s;
+  animation-iteration-count: infinite;
+}
+
+
+
+/* @end */
+
+
+  body#article.issue-2-interview main .page aside.aside-1{
+  background: #0e548a;
+  border: 1px solid #0c4b7c;
+  color: white;
+  padding: 1em;
+  margin-top: 16px;
+}
+
+  body#article.issue-2-interview main .page aside.aside-1 h1{
+  color: inherit;
+    font-size: 23px;
+    margin-top: 0;
+    line-height: 1.4em;
+    font-family: "franklin-gothic-urw", arial, sans-serif;
+}
+
+  body#article.issue-2-interview main .page aside.aside-1 p{
+    font-size: 16px;
+    line-height: 1.4em;
+    font-family: "franklin-gothic-urw", arial, sans-serif;
+  }
+  
+  body#article.issue-2-interview main .page aside.aside-1 p span{
+	display: block;
+	font-size: 18px;
+  }
+
+  body#article.issue-2-interview main .page aside.aside-1 a{
+	color: #31de60;
+}
+
+  
+  body#article.issue-2-interview main > header h2,
+  body#article.issue-2-interview main > header h3,
+  body#article.issue-2-interview main > header h3 span.by{
+	letter-spacing: normal;
+	text-transform: none;
+	font-style: normal;	
+  }
+  
+  body#article.issue-2-interview main > header h2{
+  	margin-bottom: 0;
+  }
+
+  body#article.issue-2-interview main > header h3{
+  margin-top: 0;
+  padding-top: 0;
+}  
+
+
+@media screen and (min-width: 533.33px){
+
+  body#article.issue-2-interview main > header{
+	padding-top: 6.4vw;
+  }
+	
+  body#article.issue-2-interview main > header h1,
+  body#article.issue-2-interview main > header h3,
+  body#article.issue-2-interview main > header h3 span.by{
+    font-size: 2.8vw;
+    position: relative;
+  }
+
+  body#article.issue-2-interview main > header h2{
+	font-size: 4.8vw;
+  }
+  
+}
+
+@media screen and (min-width: 924.44px){
+  body#article.issue-2-interview main > header{
+	padding-top: 64px;
+	padding-bottom: 32px;
+  }
+
+  body#article.issue-2-interview main > header h1,
+  body#article.issue-2-interview main > header h3,
+  body#article.issue-2-interview main > header h3 span.by{
+    font-size: 28px;  
+    margin-left: 0;
+    width: 50%;
+  }
+  
+  body#article.issue-2-interview main > header h2{
+	  font-size: 48px;	
+  }
+}
+
+@media screen and (min-width: 1126.4px){
+  body#article.issue-2-interview main > header h1{
+	width: 1024px;
+  }
+}
+  
+
+/* @end */
+
+/* @group recommends */
+
+
+
+body#article.issue-2-recommends main > header figure.figure-1{
+	z-index: 2;
+	width: 90%;
+	max-width: 384px;
+	display: inline-block;
+	margin: 16px auto 32px;
+	position: relative;
+	left: 16px;
+}
+
+
+
+
+body#article.issue-2-recommends main > header h1{
+	margin-bottom: 0.4em;
+}
+
+body#article.issue-2-recommends main .page div.recommendation h1{
+	font-size: 22px;
+	font-family: "franklin-gothic-urw", Arial;
+	font-weight: 600;
+	color: inherit;
+	margin-bottom: 0.2em;
+  
+}
+
+body#article.issue-2-recommends main > header p{
+  color: #ce4d31;
+}
+
+@media screen and (min-width: 568.88px){
+
+	body#article.issue-2-recommends main > header figure.figure-1{
+	  margin-top: 64px;
+      margin-bottom: 0;
+	}
+
+	body#article.issue-2-recommends main > header h1{
+	  margin-top: 32px;
+	  margin-bottom: 0;
+	}
+
+}
+
+
+@media screen and (min-width: 995.55px){
+	body#article.issue-2-recommends main > header{
+  		text-align: left;
+	}
+
+	body#article.issue-2-recommends main > header div.site-width{
+		padding-right: 384px;
+	}
+	
+	body#article.issue-2-recommends main > header div.site-width::after {
+	  content: "";
+	  display: table;
+	  clear: both;
+	}	
+
+	body#article.issue-2-recommends main > header h1,
+	body#article.issue-2-recommends main > header p{
+		max-width: none;
+		float: left;
+		width: 100%;
+		clear: none;
+	}
+
+	
+	body#article.issue-2-recommends main > header h1{
+  		margin-top: 32px;
+  		font-size: 64px;
+  		margin-bottom: 0.2em;
+		white-space: nowrap;
+	}
+	
+	body#article.issue-2-recommends main > header figure.figure-1{
+		float: right;
+		width: 384px;
+		max-width: none;
+		margin-top: 144px;
+		margin-right: -384px;
+        z-index: -1;
+	}
+}
+
+
+
+@media screen and (min-width: 1137.77px){
+	
+
+	body#article.issue-2-recommends main > header h1{
+	font-size: 72px;
+	white-space: normal;
+  }
+	body#article.issue-2-recommends main > header figure.figure-1{
+		position: relative;
+		margin-top: 156px;
+	}
+	
+}
+
+/* @end */
+/* @group letter */
+
+
+body#article.issue-2-letter main > header{ margin-top: 32px; }
+
+body#article.issue-2-letter main > header figure.figure-1{
+	max-width: 384px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-bottom: 16px;
+}
+
+body#article.issue-2-letter main > header h1{ line-height: 1.2; }
+body#article.issue-2-letter main > header h1 span.not-for{ display: block; }
+
+@media screen and (min-width: 568.88px){ 
+  body#article.issue-2-letter main > header{ padding: 32px 0 0 0; }
+  body#article.issue-2-letter main > header h1{ 
+	font-size: 7vw; 
+	margin-top: 32px;
+  } 
+}
+
+@media screen and (min-width: 924.44px){
+  body#article.issue-2-letter main > header figure{
+	position: absolute;
+	right: 0;
+	top: 0;
+	margin-top: -40px;
+	width: 320px;
+  }
+  body#article.issue-2-letter main > header h1,
+  body#article.issue-2-letter main > header h2,
+  body#article.issue-2-letter main > header p{
+    text-align: left;
+    max-width: none;
+    margin-left: 0;
+    margin-right: 320px;
+  }
+  body#article.issue-2-letter main > header h3{
+	width: 640px;
+	margin: 0 auto;
+	text-align: left;
+  }
+}
+
+@media screen and (min-width: 1137.778px){
+  body#article.issue-2-letter main > header h1{ font-size: 4em; }
+}
+
+/* @end */
