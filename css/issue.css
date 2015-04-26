@@ -8,7 +8,7 @@
 
 /* @group shared colors */
 
-body#page.issue-1 section.issue-2-new-literacies header{ border-color: #6d51b3; }
+body#page.issue-1 section.issue-2-new-literacies header{ border-color: #006699; }
 
 body#page.issue-2 .issue-2-new-literacies h3,
 body#page.issue-2 section.issue-2-new-literacies h1,
@@ -16,10 +16,10 @@ body#article section.issue-2-new-literacies.h-feed a h1,
 body#article section.issue-1-field-notes article h1,
 body#article.issue-2-new-literacies main .page span.first-letter,
 body#article.issue-2-new-literacies main .page blockquote::before,
-body#article.issue-2-new-literacies main .page > div.site-width > section > h1{ color: #8699aa; }
+body#article.issue-2-new-literacies main .page > div.site-width > section > h1{ color: #006699; }
 
 body#page.issue-2 section.issue-2-new-literacies a:hover h1,
-body#article section.issue-2-new-literacies a:hover h1{ color: #8699aa; }
+body#article section.issue-2-new-literacies a:hover h1{ color: #006699; }
 
 body#page.issue-2 .issue-2-community-building h3,
 body#page.issue-2 section.issue-2-community-building h1,
@@ -27,10 +27,10 @@ body#article section.issue-2-community-building article h1,
 body#article section.issue-2-community-building article h1,
 body#article.issue-2-community-building main .page blockquote::before,
 body#article.issue-2-community-building main .page span.first-letter,
-body#article.issue-2-community-building main .page > div.site-width > section h1{ color: #d8611d; }
+body#article.issue-2-community-building main .page > div.site-width > section h1{ color: #006699; }
 
 body#page.issue-2 section.issue-2-community-building a:hover h1,
-body#article section.issue-2-community-building a:hover h1{ color: #b33714; }
+body#article section.issue-2-community-building a:hover h1{ color: #006699; }
 
 body#page.issue-2 .issue-2-designing-complexity h3,
 body#page.issue-2 section.issue-2-designing-complexity h1,
@@ -38,22 +38,22 @@ body#article section.issue-2-designing-complexity article h1,
 body#article section.issue-2-designing-complexity article h1,
 body#article.issue-2-designing-complexity main .page blockquote::before,
 body#article.issue-2-designing-complexity main .page span.first-letter,
-body#article.issue-2-designing-complexity main .page > div.site-width > section h1{ color: #307fb0; }
+body#article.issue-2-designing-complexity main .page > div.site-width > section h1{ color: #006699; }
 
 body#page.issue-2 section.issue-2-designing-complexity a:hover h1,
-body#article section.issue-2-designing-complexity a:hover h1{ color: #1f5b80; }
+body#article section.issue-2-designing-complexity a:hover h1{ color: #006699; }
 
 body#page.issue-2 .page li.issue-2-new-literacies,
 body#article.issue-2-new-literacies,
-body#article.issue-2-new-literacies .author-bio{ border-color: #20a984; }
+body#article.issue-2-new-literacies .author-bio{ border-color: #006699; }
 
 body#page.issue-2 .page li.issue-2-community-building,
 body#article.issue-2-community-building,
-body#article.issue-2-community-building .author-bio{ border-color: #d8611d; }
+body#article.issue-2-community-building .author-bio{ border-color: #006699; }
 
 body#page.issue-2 .page li.issue-2-designing-complexity,
 body#article.issue-2-designing-complexity,
-body#article.issue-2-designing-complexity .author-bio{ border-color: #307fb0; }
+body#article.issue-2-designing-complexity .author-bio{ border-color: #006699; }
 
 
 /* @end */
