@@ -23,8 +23,6 @@ Dan and I visit the Rickshaw Stop, a club two blocks from Davies Hall, where he 
 “Um... Takemitsu’s From Me Flows What You Call Time and Holst’s The Planets,” I tell them.<br>
 Waldo nods his head. “Isn’t The Planets supposed to be really long?”<br>
 Dan gives them a despairing look as I drag him back onto the street.<br>
-	
-> As I attempt to sip from my near-rubbing-alcohol quality $8 vodka cran, I realize that I am in couples hell. 
 
 A garden never spurns those who enter it.
 	—Toru Takemitsu
@@ -58,4 +56,4 @@ I remember. But I also remember the way my throat would start to bob up and down
 	
 The music is still that powerful to me. And maybe you don’t need to play in an orchestra to love classical music. But it sure helps to make you a crybaby about it.
 
-*Elka Karl and Dan Strachota broke up one week after this concert. Elka blames Holst. *
+*Elka Karl and Dan Strachota broke up one week after this concert. Elka blames Holst.*
