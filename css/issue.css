@@ -16,10 +16,10 @@ body#article section.issue-2-new-literacies.h-feed a h1,
 body#article section.issue-1-field-notes article h1,
 body#article.issue-2-new-literacies main .page span.first-letter,
 body#article.issue-2-new-literacies main .page blockquote::before,
-body#article.issue-2-new-literacies main .page > div.site-width > section > h1{ color: #20a984; }
+body#article.issue-2-new-literacies main .page > div.site-width > section > h1{ color: #8699aa; }
 
 body#page.issue-2 section.issue-2-new-literacies a:hover h1,
-body#article section.issue-2-new-literacies a:hover h1{ color: #187f64; }
+body#article section.issue-2-new-literacies a:hover h1{ color: #8699aa; }
 
 body#page.issue-2 .issue-2-community-building h3,
 body#page.issue-2 section.issue-2-community-building h1,
