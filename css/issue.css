@@ -8,7 +8,7 @@
 
 /* @group shared colors */
 
-body#page.issue-1 section.issue-2-new-literacies header{ border-color: #006e9f; }
+body#page.issue-1 section.issue-2-new-literacies header{ border-color: #813d2b; }
 
 body#page.issue-2 .issue-2-new-literacies h3,
 body#page.issue-2 section.issue-2-new-literacies h1,
@@ -16,10 +16,10 @@ body#article section.issue-2-new-literacies.h-feed a h1,
 body#article section.issue-1-field-notes article h1,
 body#article.issue-2-new-literacies main .page span.first-letter,
 body#article.issue-2-new-literacies main .page blockquote::before,
-body#article.issue-2-new-literacies main .page > div.site-width > section > h1{ color: #006e9f; }
+body#article.issue-2-new-literacies main .page > div.site-width > section > h1{ color: #813d2b; }
 
 body#page.issue-2 section.issue-2-new-literacies a:hover h1,
-body#article section.issue-2-new-literacies a:hover h1{ color: #006e9f; }
+body#article section.issue-2-new-literacies a:hover h1{ color: #813d2b; }
 
 body#page.issue-2 .issue-2-community-building h3,
 body#page.issue-2 section.issue-2-community-building h1,
@@ -27,7 +27,7 @@ body#article section.issue-2-community-building article h1,
 body#article section.issue-2-community-building article h1,
 body#article.issue-2-community-building main .page blockquote::before,
 body#article.issue-2-community-building main .page span.first-letter,
-body#article.issue-2-community-building main .page > div.site-width > section h1{ color: #006e9f; }
+body#article.issue-2-community-building main .page > div.site-width > section h1{ color: #0f4447; }
 
 body#page.issue-2 section.issue-2-community-building a:hover h1,
 body#article section.issue-2-community-building a:hover h1{ color: #0f4447; }
@@ -45,11 +45,11 @@ body#article section.issue-2-designing-complexity a:hover h1{ color: #006e9f; }
 
 body#page.issue-2 .page li.issue-2-new-literacies,
 body#article.issue-2-new-literacies,
-body#article.issue-2-new-literacies .author-bio{ border-color: #006e9f; }
+body#article.issue-2-new-literacies .author-bio{ border-color: #813d2b; }
 
 body#page.issue-2 .page li.issue-2-community-building,
 body#article.issue-2-community-building,
-body#article.issue-2-community-building .author-bio{ border-color: #006e9f; }
+body#article.issue-2-community-building .author-bio{ border-color: #0f4447; }
 
 body#page.issue-2 .page li.issue-2-designing-complexity,
 body#article.issue-2-designing-complexity,
