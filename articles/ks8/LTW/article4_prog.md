@@ -4,7 +4,7 @@
 by Carla Costa<br>
 illustration by Mark Burrier
 
-Long distance runaround/ Long time waiting to feel the sound/ I still remember the dream there.<br>
+> Long distance runaround/ Long time waiting to feel the sound/ I still remember the dream there.<br>
 	—Yes 
 
 In the early ’70s, prog rock provided release for music geeks in search of a more challenging alternative to the burgeoning arena-rock scene. Prog’s epic, sci-fi symphonies merged classical composition with futuristic form and churned the result out through Marshall stacks.
@@ -13,7 +13,7 @@ Decades later, prog’s style of innovative extravagance has translated into new
 
 ####Science Fiction, Math and Music
 
-Everybody got mixed feelings about the function and the form/ Everybody got to deviate from the norm.<br>
+> Everybody got mixed feelings about the function and the form/ Everybody got to deviate from the norm.<br>
 	—Rush
 	
 Math rock’s thunderous drums, guitar scales in place of power chords, and tricks with timing may have as much in common with jazz and the Dave Brubeck Quartet’s Time Out as it does with early ’90s hardcore. Oddly enough, the midpoint between the two—chronologically and aesthetically—is prog rock. Prog pillars Rush aimed for transcendental songwriting through fantastical voyages of sound and story. Despite tales of lost captains, lost ships and being lost in space, Rush actually wrote songs about emotion. Math rockers do much the same thing, through songs about atoms, politics and modern day (semi-) consciousness.
@@ -28,7 +28,7 @@ The atypical paths paved by prog and math rockers weren’t necessarily driven b
 
 ####Post-Laptop
 
-Said the straight man to the late man/ Where have you been/ I’ve been here and I’ve been there/ And I’ve been in between.<br>
+> Said the straight man to the late man/ Where have you been/ I’ve been here and I’ve been there/ And I’ve been in between.<br>
 	—King Crimson 
 	
 In 1972, Yes released its seminal album, Fragile. The band utilized the most advanced technology available at the time (mellotron, electric piano, synthesizer) to compose contemporary symphonies, even recording a song which borrows from Brahms’ Symphony No.4 in E Minor Third Movement. “Cans and Brahms,” the liner notes explain, is “an adaptation by Rick Wakemen on which he plays electric piano taking the part of strings, grand piano electric harpsichord taking reeds and synthesizer taking contra bassoon.”
