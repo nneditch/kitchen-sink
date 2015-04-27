@@ -1150,7 +1150,7 @@ header#header nav.nav-issue{
 
   header#header{
       padding-top: 3.2em;
-      padding-bottom: 3.2em;
+      padding-bottom: 0em;
   }
   
   
@@ -1452,6 +1452,7 @@ body#article main > header h2{
   line-height: 1.1;
   font-weight: 600;
   margin-top: 0;
+  margin-bottom: 0.5em;
 }
 
 body#article main > header h3,
