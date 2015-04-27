@@ -74,6 +74,17 @@ body#article.issue-8-revolution main .page > div.site-width > section h1{ color:
 body#page.issue-2 section.issue-8-revolution a:hover h1,
 body#article section.issue-8-revolution a:hover h1{ color: #6c8158; }
 
+body#page.issue-2 .iissue-8-sfg h3,
+body#page.issue-2 section.issue-8-sfg h1,
+body#article section.issue-8-sfg article h1,
+body#article section.issue-8-sfg article h1,
+body#article.issue-8-sfg main .page blockquote::before,
+body#article.issue-8-sfg main .page span.first-letter,
+body#article.issue-8-sfg main .page > div.site-width > section h1{ color: #36537f; }
+
+body#page.issue-2 section.issue-8-sfg a:hover h1,
+body#article section.issue-8-sfg a:hover h1{ color: #36537f; }
+
 body#page.issue-2 .page li.issue-8-louder-than-words,
 body#article.issue-8-louder-than-words,
 body#article.issue-8-louder-than-words .author-bio{ border-color: #813d2b; }
@@ -97,6 +108,10 @@ body#article.issue-8-untitled .author-bio{ border-color: #755e4c; }
 body#page.issue-2 .page li.issue-8-revolution,
 body#article.issue-8-revolution,
 body#article.issue-8-revolution .author-bio{ border-color: #6c8158; }
+
+body#page.issue-2 .page li.issue-8-sfg,
+body#article.issue-8-sfg,
+body#article.issue-8-sfg .author-bio{ border-color: #36537f; }
 
 
 /* @end */
