@@ -8,15 +8,15 @@
 
 /* @group shared colors */
 
-body#page.issue .issue-8-louder-than-words h3,
-body#page.issue section.issue-8-louder-than-words h1,
+body#page.issue-2 .issue-8-louder-than-words h3,
+body#page.issue-2 section.issue-8-louder-than-words h1,
 body#article section.issue-8-louder-than-words a h1,
 body#article section.issue-8-louder-than-words article h1,
 body#article.issue-8-louder-than-words main .page span.first-letter,
 body#article.issue-8-louder-than-words main .page blockquote::before,
 body#article.issue-8-louder-than-words main .page > div.site-width > section > h1{ color: #813d2b; }
 
-body#page.issue section.issue-8-louder-than-words a:hover h1,
+body#page.issue-2 section.issue-8-louder-than-words a:hover h1,
 body#article section.issue-8-louder-than-words a:hover h1{ color: #813d2b; }
 
 body#page.issue-2 .issue-2-community-building h3,
