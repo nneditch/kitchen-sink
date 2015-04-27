@@ -49,6 +49,17 @@ body#article.issue-8-paper-city main .page blockquote::before,
 body#article.issue-8-paper-city main .page span.first-letter,
 body#article.issue-8-paper-city main .page > div.site-width > section h1{ color: #006e9f; }
 
+body#page.issue-2 section.issue-8-untitled a:hover h1,
+body#article section.issue-8-untitled a:hover h1{ color: #755e4c; }
+
+body#page.issue-2 .iissue-8-untitled h3,
+body#page.issue-2 section.issue-8-untitled h1,
+body#article section.issue-8-untitled article h1,
+body#article section.issue-8-untitled article h1,
+body#article.issue-8-untitled main .page blockquote::before,
+body#article.issue-8-untitled main .page span.first-letter,
+body#article.issue-8-untitled main .page > div.site-width > section h1{ color: #755e4c; }
+
 body#page.issue-2 section.issue-8-paper-city a:hover h1,
 body#article section.issue-8-paper-city a:hover h1{ color: #006e9f; }
 
@@ -67,6 +78,10 @@ body#article.issue-8-reverse-angle .author-bio{ border-color: #0f4447; }
 body#page.issue-2 .page li.issue-8-paper-city,
 body#article.issue-8-paper-city,
 body#article.issue-8-paper-city .author-bio{ border-color: #006e9f; }
+
+body#page.issue-2 .page li.issue-8-untitled,
+body#article.issue-8-untitled,
+body#article.issue-8-untitled .author-bio{ border-color: #755e4c; }
 
 
 /* @end */
