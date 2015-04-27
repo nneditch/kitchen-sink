@@ -30,6 +30,17 @@ body#article.issue-8-reverse-angle main .page > div.site-width > section h1{ col
 body#page.issue-2 section.issue-8-reverse-angle a:hover h1,
 body#article section.issue-8-reverse-angle a:hover h1{ color: #0f4447; }
 
+body#page.issue-2 .issue-8-swp h3,
+body#page.issue-2 section.issue-8-swp h1,
+body#article section.issue-8-swp article h1,
+body#article section.issue-8-swp article h1,
+body#article.issue-8-swp main .page blockquote::before,
+body#article.issue-8-swp main .page span.first-letter,
+body#article.issue-8-swp main .page > div.site-width > section h1{ color: #6e616a; }
+
+body#page.issue-2 section.issue-8-swp a:hover h1,
+body#article section.issue-8-swp a:hover h1{ color: #6e616a; }
+
 body#page.issue-2 .issue-2-designing-complexity h3,
 body#page.issue-2 section.issue-2-designing-complexity h1,
 body#article section.issue-2-designing-complexity article h1,
@@ -44,6 +55,10 @@ body#article section.issue-2-designing-complexity a:hover h1{ color: #006e9f; }
 body#page.issue-2 .page li.issue-8-louder-than-words,
 body#article.issue-8-louder-than-words,
 body#article.issue-8-louder-than-words .author-bio{ border-color: #813d2b; }
+
+body#page.issue-2 .page li.issue-8-swp,
+body#article.issue-8-swp,
+body#article.issue-8-swp .author-bio{ border-color: #6e616a; }
 
 body#page.issue-2 .page li.issue-8-reverse-angle,
 body#article.issue-8-reverse-angle,
