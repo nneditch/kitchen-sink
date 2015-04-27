@@ -1068,7 +1068,7 @@ header#header h1.logo{
   position: relative;
   margin-bottom: 0em;
   border-top: 0.2rem solid;
-  background:url(../images/logo.png);
+  background:url(/images/logo.png);
 }
 
 header#header h1.logo,
@@ -1181,7 +1181,7 @@ header#header nav.nav-issue{
     right: 0;
     top: 50%;
     margin-top: -0.5em;
-
+      white-space: nowrap;
   }
 
   header#header p{
@@ -1452,6 +1452,7 @@ body#article main > header h2{
   line-height: 1.1;
   font-weight: 600;
   margin-top: 0;
+  margin-bottom: 0.5em;
 }
 
 body#article main > header h3,
@@ -1526,7 +1527,7 @@ body#article main > header h3 span.by{
   }
 
   body#article main > header h1{
-  	margin-bottom: 0.5em;
+  	margin-bottom: 0.2em;
   } 
  
   body#article main > header h2{
@@ -2579,7 +2580,6 @@ body.issue .secondary-content{
 
 body.issue header#header,
 body.issue div#cover-art{
-  color: white;
   position: relative;
   background: #633380;
 }
