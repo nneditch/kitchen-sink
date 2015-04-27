@@ -19,16 +19,16 @@ body#article.issue-8-louder-than-words main .page > div.site-width > section > h
 body#page.issue-2 section.issue-8-louder-than-words a:hover h1,
 body#article section.issue-8-louder-than-words a:hover h1{ color: #813d2b; }
 
-body#page.issue-2 .issue-2-community-building h3,
-body#page.issue-2 section.issue-2-community-building h1,
-body#article section.issue-2-community-building article h1,
-body#article section.issue-2-community-building article h1,
-body#article.issue-2-community-building main .page blockquote::before,
-body#article.issue-2-community-building main .page span.first-letter,
-body#article.issue-2-community-building main .page > div.site-width > section h1{ color: #0f4447; }
+body#page.issue-2 .issue-8-reverse-angle h3,
+body#page.issue-2 section.issue-8-reverse-angle h1,
+body#article section.issue-8-reverse-angle article h1,
+body#article section.issue-8-reverse-angle article h1,
+body#article.issue-8-reverse-angle main .page blockquote::before,
+body#article.issue-8-reverse-angle main .page span.first-letter,
+body#article.issue-8-reverse-angle main .page > div.site-width > section h1{ color: #0f4447; }
 
-body#page.issue-2 section.issue-2-community-building a:hover h1,
-body#article section.issue-2-community-building a:hover h1{ color: #0f4447; }
+body#page.issue-2 section.issue-8-reverse-angle a:hover h1,
+body#article section.issue-8-reverse-angle a:hover h1{ color: #0f4447; }
 
 body#page.issue-2 .issue-2-designing-complexity h3,
 body#page.issue-2 section.issue-2-designing-complexity h1,
@@ -45,9 +45,9 @@ body#page.issue-2 .page li.issue-8-louder-than-words,
 body#article.issue-8-louder-than-words,
 body#article.issue-8-louder-than-words .author-bio{ border-color: #813d2b; }
 
-body#page.issue-2 .page li.issue-2-community-building,
-body#article.issue-2-community-building,
-body#article.issue-2-community-building .author-bio{ border-color: #0f4447; }
+body#page.issue-2 .page li.issue-8-reverse-angle,
+body#article.issue-8-reverse-angle,
+body#article.issue-8-reverse-angle .author-bio{ border-color: #0f4447; }
 
 body#page.issue-2 .page li.issue-2-designing-complexity,
 body#article.issue-2-designing-complexity,
