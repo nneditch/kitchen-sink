@@ -1068,7 +1068,7 @@ header#header h1.logo{
   position: relative;
   margin-bottom: 0em;
   border-top: 0.2rem solid;
-  background:url(/images/logo.png);
+  background:url(../images/logo.png);
 }
 
 header#header h1.logo,
@@ -1181,7 +1181,7 @@ header#header nav.nav-issue{
     right: 0;
     top: 50%;
     margin-top: -0.5em;
-      white-space: nowrap;
+
   }
 
   header#header p{
